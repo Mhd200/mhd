@@ -1,0 +1,17 @@
+
+Problem #1:
+a- Write a method named isGreaterThan(int a, int b) that takes two integers a and b and checks whether a 
+is greater than b. The method returns true if a is greater than b. Otherwise it returns false.
+b- Write a program that prompts the user to enter a maxValue and a sequence of integers, the program ends 
+when the user enters an integer larger than maxValue. It prints the sum of all the numbers excluding the 
+maxValue and indicates whether the sum is greater than the maxValue.
+Sample Run 1:
+Enter a maximum number that stops the sequence: 25 
+Enter a sequence of numbers until the program terminates: 15 3 19 13 7 28
+The sum is 85, the sum is greater than 25
+Program terminated.
+Sample Run 2:
+Enter a maximum number that stops the sequence: 33 
+Enter a sequence of numbers until the program terminates: 35
+The sum is 0, the sum is less than 33
+Program terminated.
